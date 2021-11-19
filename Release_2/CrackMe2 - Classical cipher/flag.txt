@@ -1,0 +1,10 @@
+
+plain:  ABCDEFGHIJKLMNOPQRSTUVWXYZ
+cipher: ZYXWVUTSRQPONMLKJIHGFEDCBA
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: zyxwvutsrqponmlkjihgfedcba
+plain:	0123456789
+cipher:	9876543210
+
+HfyhgrgfgrlmYlc579
+SubstitutionBox420
